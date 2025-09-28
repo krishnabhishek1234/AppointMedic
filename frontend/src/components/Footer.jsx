@@ -8,7 +8,7 @@ const Footer = () => {
                 {/*--left section--*/}
                 <div>
                     <img className="mb-5 w-44" src={assets.logo3} alt="" />
-                    <p className="w-full md:w-2/3 text-gray-600 leading-6">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum eligendi vero nisi aliquid. Dolore deleniti quia id. Amet magni tempore beatae corporis! A porro praesentium laudantium officiis excepturi exercitationem debitis!</p>
+                    <p className="w-full md:w-2/3 text-gray-600 leading-6">AppointMedic is a modern web-based doctor appointment management system that makes healthcare scheduling simple and efficient. Patients can easily book, reschedule, or cancel appointments with their preferred doctors, while doctors can manage their availability and appointments through a dedicated dashboard.</p>
                 </div>
                 {/*--Center section--*/}
                 <div>
