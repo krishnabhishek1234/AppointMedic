@@ -44,3 +44,11 @@ https://appointmedic-frontend.onrender.com/
 ```bash
 https://appointmedic-admin.onrender.com/
 ```
+## Research Paper 1 link
+```bash
+https://www.doi.org/10.56726/IRJMETS86781
+```
+## Research Paper 2 link
+```bash
+https://www.doi.org/10.56726/IRJMETS96014
+```
